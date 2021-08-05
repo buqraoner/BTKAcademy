@@ -1,0 +1,13 @@
+C:\Users\bolet\source\repos\HelloWorld\Variable\bin\Debug\netcoreapp3.1\Variable.exe
+C:\Users\bolet\source\repos\HelloWorld\Variable\bin\Debug\netcoreapp3.1\Variable.deps.json
+C:\Users\bolet\source\repos\HelloWorld\Variable\bin\Debug\netcoreapp3.1\Variable.runtimeconfig.json
+C:\Users\bolet\source\repos\HelloWorld\Variable\bin\Debug\netcoreapp3.1\Variable.runtimeconfig.dev.json
+C:\Users\bolet\source\repos\HelloWorld\Variable\bin\Debug\netcoreapp3.1\Variable.dll
+C:\Users\bolet\source\repos\HelloWorld\Variable\bin\Debug\netcoreapp3.1\Variable.pdb
+C:\Users\bolet\source\repos\HelloWorld\Variable\obj\Debug\netcoreapp3.1\Variable.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\HelloWorld\Variable\obj\Debug\netcoreapp3.1\Variable.AssemblyInfoInputs.cache
+C:\Users\bolet\source\repos\HelloWorld\Variable\obj\Debug\netcoreapp3.1\Variable.AssemblyInfo.cs
+C:\Users\bolet\source\repos\HelloWorld\Variable\obj\Debug\netcoreapp3.1\Variable.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\HelloWorld\Variable\obj\Debug\netcoreapp3.1\Variable.dll
+C:\Users\bolet\source\repos\HelloWorld\Variable\obj\Debug\netcoreapp3.1\Variable.pdb
+C:\Users\bolet\source\repos\HelloWorld\Variable\obj\Debug\netcoreapp3.1\Variable.genruntimeconfig.cache
