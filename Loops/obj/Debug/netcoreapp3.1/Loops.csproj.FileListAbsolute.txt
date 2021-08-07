@@ -1,0 +1,13 @@
+C:\Users\bolet\source\repos\CSharpCourse\Loops\bin\Debug\netcoreapp3.1\Loops.exe
+C:\Users\bolet\source\repos\CSharpCourse\Loops\bin\Debug\netcoreapp3.1\Loops.deps.json
+C:\Users\bolet\source\repos\CSharpCourse\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.json
+C:\Users\bolet\source\repos\CSharpCourse\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.dev.json
+C:\Users\bolet\source\repos\CSharpCourse\Loops\bin\Debug\netcoreapp3.1\Loops.dll
+C:\Users\bolet\source\repos\CSharpCourse\Loops\bin\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\bolet\source\repos\CSharpCourse\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\CSharpCourse\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfoInputs.cache
+C:\Users\bolet\source\repos\CSharpCourse\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfo.cs
+C:\Users\bolet\source\repos\CSharpCourse\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\CSharpCourse\Loops\obj\Debug\netcoreapp3.1\Loops.dll
+C:\Users\bolet\source\repos\CSharpCourse\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\bolet\source\repos\CSharpCourse\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache
