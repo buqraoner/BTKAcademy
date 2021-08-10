@@ -1,0 +1,7 @@
+C:\Users\bolet\source\repos\CSharpCourse\Classes\bin\Debug\Classes.exe.config
+C:\Users\bolet\source\repos\CSharpCourse\Classes\bin\Debug\Classes.exe
+C:\Users\bolet\source\repos\CSharpCourse\Classes\bin\Debug\Classes.pdb
+C:\Users\bolet\source\repos\CSharpCourse\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\CSharpCourse\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\CSharpCourse\Classes\obj\Debug\Classes.exe
+C:\Users\bolet\source\repos\CSharpCourse\Classes\obj\Debug\Classes.pdb
