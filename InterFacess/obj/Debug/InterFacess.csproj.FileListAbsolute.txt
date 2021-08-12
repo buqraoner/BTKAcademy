@@ -1,0 +1,7 @@
+C:\Users\bolet\source\repos\CSharpCourse\InterFacess\bin\Debug\InterFacess.exe.config
+C:\Users\bolet\source\repos\CSharpCourse\InterFacess\bin\Debug\InterFacess.exe
+C:\Users\bolet\source\repos\CSharpCourse\InterFacess\bin\Debug\InterFacess.pdb
+C:\Users\bolet\source\repos\CSharpCourse\InterFacess\obj\Debug\InterFacess.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\CSharpCourse\InterFacess\obj\Debug\InterFacess.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\CSharpCourse\InterFacess\obj\Debug\InterFacess.exe
+C:\Users\bolet\source\repos\CSharpCourse\InterFacess\obj\Debug\InterFacess.pdb

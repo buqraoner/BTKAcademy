@@ -1,0 +1,2 @@
+C:\Users\bolet\source\repos\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
