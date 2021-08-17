@@ -1,0 +1,7 @@
+C:\Users\bolet\source\repos\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+C:\Users\bolet\source\repos\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe
+C:\Users\bolet\source\repos\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.pdb
+C:\Users\bolet\source\repos\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.exe
+C:\Users\bolet\source\repos\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.pdb
