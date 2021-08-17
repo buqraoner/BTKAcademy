@@ -1,0 +1,7 @@
+C:\Users\bolet\source\repos\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+C:\Users\bolet\source\repos\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+C:\Users\bolet\source\repos\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+C:\Users\bolet\source\repos\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+C:\Users\bolet\source\repos\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.pdb
