@@ -1,0 +1,7 @@
+C:\Users\bolet\source\repos\CSharpCourse\AbstractClasses\AccesModifiers\bin\Debug\AccesModifiers.exe.config
+C:\Users\bolet\source\repos\CSharpCourse\AbstractClasses\AccesModifiers\bin\Debug\AccesModifiers.exe
+C:\Users\bolet\source\repos\CSharpCourse\AbstractClasses\AccesModifiers\bin\Debug\AccesModifiers.pdb
+C:\Users\bolet\source\repos\CSharpCourse\AbstractClasses\AccesModifiers\obj\Debug\AccesModifiers.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\CSharpCourse\AbstractClasses\AccesModifiers\obj\Debug\AccesModifiers.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\CSharpCourse\AbstractClasses\AccesModifiers\obj\Debug\AccesModifiers.exe
+C:\Users\bolet\source\repos\CSharpCourse\AbstractClasses\AccesModifiers\obj\Debug\AccesModifiers.pdb
