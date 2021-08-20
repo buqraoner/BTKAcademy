@@ -1,0 +1,4 @@
+C:\Users\bolet\source\repos\RecapDemo2\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\RecapDemo2\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.AssemblyInfoInputs.cache
+C:\Users\bolet\source\repos\RecapDemo2\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.AssemblyInfo.cs
+C:\Users\bolet\source\repos\RecapDemo2\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.csproj.CoreCompileInputs.cache
