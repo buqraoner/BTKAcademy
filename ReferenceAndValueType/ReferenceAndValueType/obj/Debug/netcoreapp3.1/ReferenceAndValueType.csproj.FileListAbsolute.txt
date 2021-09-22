@@ -1,0 +1,14 @@
+C:\Users\bolet\source\repos\ReferenceAndValueType\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.exe
+C:\Users\bolet\source\repos\ReferenceAndValueType\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.deps.json
+C:\Users\bolet\source\repos\ReferenceAndValueType\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.runtimeconfig.json
+C:\Users\bolet\source\repos\ReferenceAndValueType\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.runtimeconfig.dev.json
+C:\Users\bolet\source\repos\ReferenceAndValueType\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.dll
+C:\Users\bolet\source\repos\ReferenceAndValueType\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.pdb
+C:\Users\bolet\source\repos\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\source\repos\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.AssemblyInfoInputs.cache
+C:\Users\bolet\source\repos\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.AssemblyInfo.cs
+C:\Users\bolet\source\repos\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.dll
+C:\Users\bolet\source\repos\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.pdb
+C:\Users\bolet\source\repos\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.genruntimeconfig.cache
