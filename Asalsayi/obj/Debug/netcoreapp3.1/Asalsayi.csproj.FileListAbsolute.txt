@@ -1,0 +1,13 @@
+C:\Users\bolet\source\repos\Asalsayi\bin\Debug\netcoreapp3.1\Asalsayi.exe
+C:\Users\bolet\source\repos\Asalsayi\bin\Debug\netcoreapp3.1\Asalsayi.deps.json
+C:\Users\bolet\source\repos\Asalsayi\bin\Debug\netcoreapp3.1\Asalsayi.runtimeconfig.json
+C:\Users\bolet\source\repos\Asalsayi\bin\Debug\netcoreapp3.1\Asalsayi.runtimeconfig.dev.json
+C:\Users\bolet\source\repos\Asalsayi\bin\Debug\netcoreapp3.1\Asalsayi.dll
+C:\Users\bolet\source\repos\Asalsayi\bin\Debug\netcoreapp3.1\Asalsayi.pdb
+C:\Users\bolet\source\repos\Asalsayi\obj\Debug\netcoreapp3.1\Asalsayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\source\repos\Asalsayi\obj\Debug\netcoreapp3.1\Asalsayi.AssemblyInfoInputs.cache
+C:\Users\bolet\source\repos\Asalsayi\obj\Debug\netcoreapp3.1\Asalsayi.AssemblyInfo.cs
+C:\Users\bolet\source\repos\Asalsayi\obj\Debug\netcoreapp3.1\Asalsayi.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\Asalsayi\obj\Debug\netcoreapp3.1\Asalsayi.dll
+C:\Users\bolet\source\repos\Asalsayi\obj\Debug\netcoreapp3.1\Asalsayi.pdb
+C:\Users\bolet\source\repos\Asalsayi\obj\Debug\netcoreapp3.1\Asalsayi.genruntimeconfig.cache

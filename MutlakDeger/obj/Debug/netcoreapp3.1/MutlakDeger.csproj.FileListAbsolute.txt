@@ -1,0 +1,14 @@
+C:\Users\bolet\source\repos\MutlakDeger\bin\Debug\netcoreapp3.1\MutlakDeger.exe
+C:\Users\bolet\source\repos\MutlakDeger\bin\Debug\netcoreapp3.1\MutlakDeger.deps.json
+C:\Users\bolet\source\repos\MutlakDeger\bin\Debug\netcoreapp3.1\MutlakDeger.runtimeconfig.json
+C:\Users\bolet\source\repos\MutlakDeger\bin\Debug\netcoreapp3.1\MutlakDeger.runtimeconfig.dev.json
+C:\Users\bolet\source\repos\MutlakDeger\bin\Debug\netcoreapp3.1\MutlakDeger.dll
+C:\Users\bolet\source\repos\MutlakDeger\bin\Debug\netcoreapp3.1\MutlakDeger.pdb
+C:\Users\bolet\source\repos\MutlakDeger\obj\Debug\netcoreapp3.1\MutlakDeger.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\MutlakDeger\obj\Debug\netcoreapp3.1\MutlakDeger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\source\repos\MutlakDeger\obj\Debug\netcoreapp3.1\MutlakDeger.AssemblyInfoInputs.cache
+C:\Users\bolet\source\repos\MutlakDeger\obj\Debug\netcoreapp3.1\MutlakDeger.AssemblyInfo.cs
+C:\Users\bolet\source\repos\MutlakDeger\obj\Debug\netcoreapp3.1\MutlakDeger.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\MutlakDeger\obj\Debug\netcoreapp3.1\MutlakDeger.dll
+C:\Users\bolet\source\repos\MutlakDeger\obj\Debug\netcoreapp3.1\MutlakDeger.pdb
+C:\Users\bolet\source\repos\MutlakDeger\obj\Debug\netcoreapp3.1\MutlakDeger.genruntimeconfig.cache
